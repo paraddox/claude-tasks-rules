@@ -27,7 +27,7 @@ Originally converted from Cursor IDE rules to work seamlessly with Claude Code's
 2. **Import in your main CLAUDE.md**: Add this as the first line:
 
 ```markdown
-@claude-tasks-rules.md
+Load @claude-tasks-rules.md
 
 # Your Project Name
 [Your existing Claude.md content continues here...]
